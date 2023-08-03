@@ -1,0 +1,13 @@
+PDWA5 - Programação Dinâmica para WEB
+
+Aula 01: Software as a Service
+
+SaaS
+Modelo de entrega de software.
+
+Acessado pela internet, direto pelo navegador.
+
+licenciado por assinatura.
+
+
+
