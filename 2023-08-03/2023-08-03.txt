@@ -1,8 +1,8 @@
 PDWA5 - Programação Dinâmica para WEB
 Prof Quirino
+contato via e-mail
 
 Trabalhos:
-
 
 Utilizar 
 Swaggers
@@ -10,7 +10,7 @@ AJAX
 Persistência de dados
 armazenamento e recuperação de arquivos
 
-Teremos reposição de 2 aulas:
+*Teremos reposição de 2 aulas:
 presença e ponto extra
 Vídeos e exercícios
 
