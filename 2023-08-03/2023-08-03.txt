@@ -1,4 +1,20 @@
 PDWA5 - Programação Dinâmica para WEB
+Prof Quirino
+
+Trabalhos:
+
+
+Utilizar 
+Swaggers
+AJAX
+Persistência de dados
+armazenamento e recuperação de arquivos
+
+
+
+
+------------------------------------------------------------
+
 
 Aula 01: Software as a Service
 
@@ -9,5 +25,96 @@ Acessado pela internet, direto pelo navegador.
 
 licenciado por assinatura.
 
+Escalável 
 
+Acessível
+
+Paga-se um assinatura mensal.
+
+Custo inicial menor.
+
+
+Responsabilidades:
+Garantir a proteção dos dados.
+Integração com outras soluções e sistemas.
+Suporte ao usuário
+Disponibilidade e desempenho.
+Implementação APIs.
+
+-------------------------------------------
+
+APIs:
+interface de programação
+troca de dados
+funconalidades especificas
+
+é fundamental no contexto do Saas
+
+*API possibilita a interação com a aplicação principal.
+
+
+Automação:
+*No IF VBOX -> Gerenciamento e abertura de chamados automaticamente.
+
+
+APIs REST e SOAP:
+
+rest:
+estrutura simples e leve
+geralmente utiliza JSON ou XML
+amplamente utilizadoem aplicações web
+
+
+soap:
+baseado em xml
+*nota fiscal eletronica utiliza xml
+
+utilizado em sistemas corporativos.
+
+Arquitetura cliente-servidor:
+comportamento 
+cliente -> solicita e insere dados
+servidor -> recebe solicitações
+
+
+Utilizam tokens de acesso
+geralmente no cabeçalho HTTP
+definem níveis de acesso
+*OAuth 2.0 = autenticação do usuário em um serviço
+
+*Autenticado é diferente de autorizado*
+
+criptografia
+
+ataque de negação de serviço -> excesso de solicitações de determinado serviço que bloqueia/trava o servidor
+
+Manuseio seguro de erros -> não revelar dados senvíveis durante erros.
+
+Documentação da API é crucial
+Ter exemplo de usos
+
+Criar rotinas de testes
+*verificar as respostas
+
+Postman e Insomnia usados para testar APIs
+
+
+Manutenção -> detectar bugs
+Evolução -> add novos recursos/ funcionalidades
+		 eventualmente fazer depreciação
+
+
+
+*ataque hacker 'man in teh middle'
+
+
+*Projetos Práticos na disciplina:
+Vamos utilizar PHP 5
+Vamos criar APIs
+Jest nos testes unitários
+
+
+2 trabalhos:
+Teórico -> documentação
+Prático -> API funcionando
 
