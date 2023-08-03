@@ -10,6 +10,29 @@ AJAX
 Persistência de dados
 armazenamento e recuperação de arquivos
 
+Teremos reposição de 2 aulas:
+presença e ponto extra
+Vídeos e exercícios
+
+
+Atividades práticas
+Atividades teóricas
+
+
+Desenvolvimento de projeto final:
+atividades que serão feitas durante o semestre
+
+
+Evento 21/09
+Sedcitec
+
+
+Avaliações:
+TT 25%
+TP 45%
+AA 30%
+
+Trabalhos disponibilizados a partir da 5a aula
 
 
 
