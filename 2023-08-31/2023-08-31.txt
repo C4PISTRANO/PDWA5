@@ -23,6 +23,7 @@ Arquitetura Cliente-Servidor:
 
 
 URL -> Padrão de nomenclatura para internet
+"endpoint"
 
 
 REST:
@@ -51,7 +52,34 @@ Stateless -> não acompanha as atualizações feitas no recurso.
 SOAP -> Robustez e segurança
 Faz o acompanhamento de estado.
 
+ESTRUTURA MENSAGEM SOAP:
+cabeçalho
+corpo
 
+
+WSDL - WEB SERVICES DESCRIPTION LANGUAGE:
+
+-----------------------------------------------------
+Utilizando SOAP:
+Definir os tipos de dados
+Definir o comportamanto 
+
+
+**Não utilizar FTP, pq é inseguro**
+
+
+UTILIZANDO REST:
+Recursos
+URIs -> ***Sempre usar susbstantivos para nomear recursos***
+Métodos HTTP
+Codificação de Dados
+
+
+
+STATUS HTTP REQUEST:
+200 sucesso
+400 erro pelo usuário
+500 erro no servidor
 
 
 
