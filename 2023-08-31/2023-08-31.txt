@@ -1,0 +1,21 @@
+PDWA5
+
+Web services -> sistemas de software
+
+REST x SOAP:
+
+Padrões -> HTTP XML SOAP
+
+API -> interface, conjuto de regras e protocolos
+*Trabalham com JSON ou XML
+
+Era moderna -> 'economia de API'
+
+interoperabilidade:
+sistemas diferentes, usuários diferentes,linguagens diferentes...
+
+
+
+
+
+
