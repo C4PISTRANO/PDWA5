@@ -14,6 +14,51 @@ Era moderna -> 'economia de API'
 interoperabilidade:
 sistemas diferentes, usuários diferentes,linguagens diferentes...
 
+Arquitetura Cliente-Servidor:
+*mesmo estando no mesmo computador, a comunicação é feita pela rede.
+
+
+
+*softdelete -> atualização de recursos
+
+
+URL -> Padrão de nomenclatura para internet
+
+
+REST:
+Os recursos são entidades, acessados pela URI (identifiers)
+*sempre usar substantivos nos recursos do URI*
+
+Nome de API será RESTful.
+
+JSON x XML:
+JSON Serializar e desserializar
+XML manipulados e processados de forma complexa
+
+WEB SERVICE: 
+Aplicação que fornece funcionalidades remotas, utilizando HTTP.
+*conceitualmente, o WEB service consome dados.
+
+PROTOCOLO SOAP: *não existe protocolo REST
+Baseado no XML e utiliza protocolo HTTP
+
+Estilo de arquitetura REST:
+Não é um protocolo de comunicação
+Utilizado quando precisamos de escalibilidade, flexibilidade e simplicidade.
+*geralmente os ambientes que utilizam REST, são mais modernos, conseuqnetemente mais escaláveis*
+Stateless -> não acompanha as atualizações feitas no recurso.
+
+SOAP -> Robustez e segurança
+Faz o acompanhamento de estado.
+
+
+
+
+
+
+
+
+
 
 
 
