@@ -5,12 +5,14 @@ Utilizar o codesandbox.io -> fazer import do github >
 
 *ele sempre fica rodando um container direto*
 
-
 ou
 
 vercel.com / vercel.app -> hospedar a API
---------------------------------------------------------
 
+ou
+
+gitpod.io
+--------------------------------------------------------
 
 Documentação??
 *Swagger.io ou OpenAPI -> usar para gerar a documetação.
@@ -49,3 +51,7 @@ Fazer a API em javascript.
 
 *EXEMPLO DE API DE LIVROS:
 https://github.com/defauth98/books-api*
+
+
+
+ENTREGA DO TRABALHO: (VALE 30 PONTOS)
