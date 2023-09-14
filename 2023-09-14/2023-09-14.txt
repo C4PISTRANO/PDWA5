@@ -17,6 +17,10 @@ Documentação??
 Print dos endpoints
 Seguir o modelo da REST
 
+
+*Professor vai passar slides com exemplo de documetação da API.*
+
+
 Modelagem??
 
 
@@ -28,6 +32,8 @@ API x WEBServices ->
 o URL, para nossa API, será considerado do recurso par a frente. (recurso sempre um substantivo)
 
 O que é REST? -> Ver slides.
+
+
 
 *OPENAPI -> Mais utilizado hj em dia.
 
