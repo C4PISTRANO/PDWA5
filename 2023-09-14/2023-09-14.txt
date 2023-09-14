@@ -1,6 +1,11 @@
 PDWA4 - 
 
 Como fazer o deploy??
+Utilizar o codesandbox.io -> fazer import do github > 
+
+*ele sempre fica rodando um container direto*
+
+
 
 
 Documentação??
@@ -10,12 +15,24 @@ Seguir o modelo da REST
 Modelagem??
 
 
-*Swagger.io ou OpenAPI -> usar como modelo.
 
-*Ver documentação API REST do Github
 
 
 API x WEBServices -> 
 
-o URL, para nossa API, será considerado do recurso par a frente.
+o URL, para nossa API, será considerado do recurso par a frente. (recurso sempre um substantivo)
+
+O que é REST? -> Ver slides.
+
+*OPENAPI -> Mais utilizado hj em dia.
+
+*O que define o REST -> ser stateless
+
+*Swagger.io ou OpenAPI -> usar para gerar a documetação.
+
+*POSTMAN -> Fazer teste unitário.
+
+*Ver documentação API REST do Github
+
+Fazer a API em javascript.
 
