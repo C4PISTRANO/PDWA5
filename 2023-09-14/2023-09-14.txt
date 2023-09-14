@@ -6,9 +6,14 @@ Utilizar o codesandbox.io -> fazer import do github >
 *ele sempre fica rodando um container direto*
 
 
+ou
+
+vercel.com / vercel.app -> hospedar a API
+--------------------------------------------------------
 
 
 Documentação??
+*Swagger.io ou OpenAPI -> usar para gerar a documetação.
 Print dos endpoints
 Seguir o modelo da REST
 
@@ -28,7 +33,7 @@ O que é REST? -> Ver slides.
 
 *O que define o REST -> ser stateless
 
-*Swagger.io ou OpenAPI -> usar para gerar a documetação.
+
 
 *POSTMAN -> Fazer teste unitário.
 
