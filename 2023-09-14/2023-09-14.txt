@@ -1,0 +1,21 @@
+PDWA4 - 
+
+Como fazer o deploy??
+
+
+Documentação??
+Print dos endpoints
+Seguir o modelo da REST
+
+Modelagem??
+
+
+*Swagger.io ou OpenAPI -> usar como modelo.
+
+*Ver documentação API REST do Github
+
+
+API x WEBServices -> 
+
+o URL, para nossa API, será considerado do recurso par a frente.
+
