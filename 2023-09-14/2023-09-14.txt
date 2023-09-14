@@ -47,3 +47,5 @@ O que é REST? -> Ver slides.
 
 Fazer a API em javascript.
 
+*EXEMPLO DE API DE LIVROS:
+https://github.com/defauth98/books-api*
