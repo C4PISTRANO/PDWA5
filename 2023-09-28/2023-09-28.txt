@@ -41,7 +41,7 @@ value > URI
 clicar em [SEND]
 
 Fazer Testes:
-pm.test("Status test- qualquer apelido", fuction () {
+pm.test("Status test -> inserir apelido", fuction () {
 	pm.response.to.have.status(200);
 });
 
