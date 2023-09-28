@@ -60,5 +60,11 @@ pm.test("Verificação cookie", fuction () {
 });
 
 
+*...not.equal(xxx) -> checar no caso de uma página vazia
 
+
+**Ver no material (Moodle) quando usar 'response' ou 'expect'**
+
+Teste unitário:
+Cada teste verifica uma única requisição / endpoint
 
