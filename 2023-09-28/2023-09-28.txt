@@ -8,5 +8,41 @@ https://vanderlan-alves-filho.medium.com/testes-automatizados-de-api-com-postman
 https://www.sensedia.com.br/post/rest-api-entenda-o-passo-a-passo-para-realizar-testes
 
 - Exemplos de API para testes:
-https://developers.google.com/books/docs/v1/using?hl=pt-br
+https://developers.google.com/books/docs/v1/using?hl=pt-br -> *Tem o modelo igual o pedido no projeto*
 https://medium.com/reactbrasil/10-apis-gr%C3%A1tis-e-legais-para-voc%C3%AA-consumir-69141988ea0b
+
+POSTMAN -> Permite fazer testes unitários
+
+status da requisição - 200 OK
+
+cookies -> vamos manipular cookies
+
+headers -> padrão respostas
+
+Tests resuts -> 
+
+
+Como fazer a primeira entrega:
+copiar o código que está em 'body'
+
+
+Acessando o Postman:
+Criar um Workspace novo
+
+*criar uma coleção para cada endpoint (GET, POST, etc.)*
+
+Nova coleção > blank > colocar nome
+
+
+new request > method  (pode colocar um nome)
+key > book
+value > URI
+
+clicar em [SEND]
+
+Fazer Testes:
+pm.test("Sattus test- apelido", fuction () {
+	pm.response.to.have.status(200);
+});
+
+Ir em 'Tests results'
