@@ -1,0 +1,12 @@
+ Documentação de criação de testes com postman:
+- https://learning.postman.com/docs/writing-scripts/test-scripts/
+- https://learning.postman.com/docs/writing-scripts/script-references/test-examples/
+
+- Artigos sobre testes unitários com Postman:
+https://medium.com/assertqualityassurance/automatizando-sua-api-com-postman-64a72185e1e6
+https://vanderlan-alves-filho.medium.com/testes-automatizados-de-api-com-postman-o-que-testar-e-como-testar-parte-1-d388c8f41fa8
+https://www.sensedia.com.br/post/rest-api-entenda-o-passo-a-passo-para-realizar-testes
+
+- Exemplos de API para testes:
+https://developers.google.com/books/docs/v1/using?hl=pt-br
+https://medium.com/reactbrasil/10-apis-gr%C3%A1tis-e-legais-para-voc%C3%AA-consumir-69141988ea0b
