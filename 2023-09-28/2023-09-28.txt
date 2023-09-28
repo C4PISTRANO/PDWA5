@@ -41,8 +41,24 @@ value > URI
 clicar em [SEND]
 
 Fazer Testes:
-pm.test("Sattus test- apelido", fuction () {
+pm.test("Status test- qualquer apelido", fuction () {
 	pm.response.to.have.status(200);
 });
 
-Ir em 'Tests results'
+Ir em 'Tests results' para ver o resultado do teste.
+
+Em 'Headers'
+
+
+*.expect -> quando espera um comportameto*
+
+*quando o header existe, ele gera um  conteúdo*
+
+Teste de autenticação:
+pm.test("Verificação cookie", fuction () {
+	pm.expect(pm.cookies.has('JSession').to.is.true;
+});
+
+
+
+
