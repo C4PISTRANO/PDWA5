@@ -1,4 +1,5 @@
 JetBrains -> Conta do IFSP
+Baixar Tool Box APP -> Ferramentas desenvolvedor
 
 DataGrip - Ferramenta de banco de dados
 *exportar o banco para enviar
