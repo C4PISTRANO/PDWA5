@@ -1,7 +1,15 @@
 JetBrains -> Conta do IFSP
 
-DataGrip - 
-botão diretio no banco > import/export > msqldump
+DataGrip - Ferramenta de banco de dados
+*exportar o banco para enviar
+botão direito no banco > import/export > mysqldump*
 
-nome -> varchar(64)
+
+
+***nome -> varchar(64) -> usar base 8
+
+
+Hospedar projeto no Github
+Conectar vercel ao atlas (mongoDB)
+
 
