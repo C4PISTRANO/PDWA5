@@ -1,0 +1,7 @@
+JetBrains -> Conta do IFSP
+
+DataGrip - 
+botão diretio no banco > import/export > msqldump
+
+nome -> varchar(64)
+
