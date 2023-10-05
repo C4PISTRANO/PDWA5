@@ -10,6 +10,11 @@ botão direito no banco > import/export > mysqldump*
 
 
 Hospedar projeto no Github
-Conectar vercel ao atlas (mongoDB)
 
+
+
+Conectar vercel ao atlas (mongoDB)
+vercel.json
+
+*Repo MrDelbon
 
