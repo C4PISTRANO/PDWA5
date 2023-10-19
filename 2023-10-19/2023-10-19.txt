@@ -1,0 +1,18 @@
+Busca e Otimização - PDWA5
+
+Cancelar Tópico 9.2.2 da especificação de entrega:
+*Criar um tópico como utilizaria pra busca e otimização.
+
+Conceitos básicos:
+Itens variados.
+Itens relevantes.
+Tempo razoável.
+Satisfação e fidelidade.
+
+Estruturado e não estruturado.
+
+Eficiência da busca:
+Ser relevante para o perfil do usuário.
+
+Filtro de busca:
+*string de busca -> calculos complexos por trás (exemplo 'carro velho = carro&velho, carro ou velho')
