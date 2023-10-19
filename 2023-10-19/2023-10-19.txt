@@ -37,6 +37,22 @@ Paralelismo com filtro de busca.
 
 Aumentar o paralelismo acelera a busca.
 
+Personalização de busca -> Baseia no histórico do usuário.
+*o histórico de usuário é usado para a análise de sentimento.
+
+Aprendizado de máquina:
+Permite otimizar a relevância na busca.
+
+Algoritmos de classificação:
+*Algoritmo Knn -> vizinhos mais próximos
+
+Aprendizado por reforço
+Aprendizado Profundo
+Aprendizado Federado -> grupo de pessoas com características semelhantes
+
+Aprendizado de máquina como um filtro:
+refinar resultados com base em critérios derivados do aprendizado.
+
 
 
 
