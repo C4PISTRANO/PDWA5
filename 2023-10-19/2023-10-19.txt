@@ -15,4 +15,28 @@ Eficiência da busca:
 Ser relevante para o perfil do usuário.
 
 Filtro de busca:
-*string de busca -> calculos complexos por trás (exemplo 'carro velho = carro&velho, carro ou velho')
+*string de busca -> calculos complexos por trás (exemplo 'carro velho = carro&velho, carro ou velho = carro | velho')
+
+Algoritmos:
+regras para encontrar itens relevantes
+hash: 
+busca interpolada: traz outros assuntos relevantes.
+Busca ternária: Tres filhos
+
+Tempo de busca depende dos algoritmos.
+Filtros podem ser aplicados.
+
+Indexação:
+informaçõa de conjuntos de dados.
+
+Paralelismo na busca, dividir em tarefas menores.
+
+Computação distribuida.
+
+Paralelismo com filtro de busca.
+
+Aumentar o paralelismo acelera a busca.
+
+
+
+
