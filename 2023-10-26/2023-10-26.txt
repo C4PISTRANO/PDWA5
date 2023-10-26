@@ -18,3 +18,26 @@ Swagger -> Framework -> geração de documetação
 Open API -> Connjunto de regras par a doucmentação
 
 
+MAis de 16000 APIs registradas.
+
+
+*** Arquivo de Definição (arquivo) de API***
+• Arquivo descreve todas as coisas que voce pode fazer com uma API ˆ
+• Lista todas as solicitac ̧oes que voc  ̃ e pode fazer ˆ
+• Diz como fazer essa solicitac ̧ao ̃
+• Diz como sera a resposta  ́
+
+A Anatomia de uma Solicitac ̧ao ̃
+2 Definic ̧oes em APIs  ̃
+
+• Metodo  ́
+• URL
+• Parametros de consulta ˆ
+• Cabec ̧alhos
+• Corpo
+
+****Usar o Swagger****
+Exemplo: https://editor.swagger.io/
+
+
+Entrega do código até dia 15/11
