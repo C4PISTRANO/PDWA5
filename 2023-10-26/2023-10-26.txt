@@ -10,3 +10,11 @@ PageRank
 TF-IDF
 Aprendizado de máquina 
 *Existem códigos pronto na Web*
+
+----------------------------------------------------------------------------------
+Swagger e OAS - Open API System
+Swagger -> Framework -> geração de documetação
+
+Open API -> Connjunto de regras par a doucmentação
+
+
