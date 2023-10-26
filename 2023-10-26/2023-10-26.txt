@@ -1,0 +1,12 @@
+Busca e otimização
+
+Algoritmos eficientes:
+Busca binária
+Busca em árvore
+Busca em Hash
+
+Motores de busca:
+PageRank
+TF-IDF
+Aprendizado de máquina 
+*Existem códigos pronto na Web*
