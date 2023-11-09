@@ -6,3 +6,8 @@ Define como dois pedac ̧os de software se comunicam
 Web APIs:
 Solicitações e respostas de API não são uma página web completa, apenas os dados.
 A definição da API descreve quais solicitações estão disponíveis e como e a resposta para cada solicitação.
+
+**Fazer rota de Logout
+
+Próxima entrega:
+
