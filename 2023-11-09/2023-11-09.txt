@@ -11,3 +11,6 @@ A definição da API descreve quais solicitações estão disponíveis e como e 
 
 Próxima entrega:
 
+
+Fazer vídeo com rota de sucesso e rota que não tenha sucesso.
+
