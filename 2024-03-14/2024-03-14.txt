@@ -1,1 +1,19 @@
 PDWA5 - Programação Dinâmica para WEB
+
+Tipos de programação WEB:
+SPA
+PWA
+
+*Pacote YAMP:
+Servidor WEB APache
+MySQL
+
+*Site Web Server:
+Ngix 34% da Web
+Apache 30% da Web
+
+Instalar servidor WEB Apache
+
+No apache cada site tem uma .conf diferente
+
+
