@@ -16,4 +16,9 @@ Instalar servidor WEB Apache
 
 No apache cada site tem uma .conf diferente
 
+PHP:
+echo -> imprime na tela
 
+O que é a saída?
+
+Cliente Web       Servidor Web (APACHE)            PHP
