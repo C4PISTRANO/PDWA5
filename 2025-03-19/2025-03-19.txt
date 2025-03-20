@@ -33,7 +33,7 @@ App
 -------------------------------------------
 Avaliações:
 
-Pesquisas sobre internet 5G
+Pesquisas sobre internet 5G ->>>> site 5G Americas
 Trabalhar com MIT APP Inventor (Google)
 
 
@@ -45,4 +45,6 @@ https://appinventor.mit.edu
 *Bom para fazer protótipos de aplicativos
 
 Aprendizado de máquina: Classificação de Imagens
+
+*****Programação em blocos*****
 
