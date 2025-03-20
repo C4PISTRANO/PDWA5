@@ -15,3 +15,17 @@ Uso da tecnologia 5G
 
 expansão da área de cobertura
 
+--------------------------------
+Daqui pra frente as tecnologias terão agregadores
+
+Todos os serviços utilizarão APIs.
+
+--------------------------------
+Linguagens por eventos
+
+Tempo
+Sensores
+Telefone
+Web
+Animação
+App
