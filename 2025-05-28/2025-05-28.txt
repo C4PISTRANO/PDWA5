@@ -1,0 +1,6 @@
+Projeto Final Simple ChatGPT
+
+Entregar junho.
+
+Chave do Open AI:
+openai.com
