@@ -4,3 +4,7 @@ Entregar junho.
 
 Chave do Open AI:
 openai.com
+
+Seguir o tutorial Simple ChatGPT.
+
+Mandar o MapIt por e-mail, com as rotas.
