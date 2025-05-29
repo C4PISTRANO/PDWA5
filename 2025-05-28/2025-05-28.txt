@@ -9,3 +9,5 @@ Seguir o tutorial Simple ChatGPT.
 https://appinventor.mit.edu/explore/resources/ai/simpleChatGPT
 
 Entregar o APP MapIt por e-mail, com as rotas.
+
+***Entregar o projeto .aia e o .apk funcional***
