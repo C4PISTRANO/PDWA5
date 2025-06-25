@@ -1,0 +1,23 @@
+Clique em '➕ Add local'. Insira um endereço completo ou CEP
+
+e clique em '✔ Enviar'. Assim que um endereço for enviado,
+
+clique em '🔍 Selecionar local' e selecione o endereço
+
+que você deseja visualizar no mapa.
+
+Copyright © 2025 C4PISTRANO. Todos os direitos reservados.
+
+
+
+Nenhum endereço foi informado. Insira um endereço ou CEP para enviar.
+
+
+Nenhum endereço foi selecionado ainda! 
+Selecione um endereço ou CEP para visualizar.
+
+
+
+Ops! Não se preocupe.
+
+Ops! Segue a dica.
