@@ -21,3 +21,7 @@ Selecione um endereço ou CEP para visualizar.
 Ops! Não se preocupe.
 
 Ops! Segue a dica.
+
+
+Descrição do aplicativo:
+Este aplicativo, permite que você salve a localização GPS do seu carro e o encontre posteriormente, com instruções passo a passo. É simples e foi projetado para ajudá-lo a lembrar onde estacionou e também salvar locais de estacionamento anteriores.
